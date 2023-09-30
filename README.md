@@ -6,7 +6,7 @@ The above notebook covers the following topics:
 * It shows how to plot line graphs.
   <img snc = *images/Capture1.PNG.PNG*>
 * Along with that , it also guides how to plot more than one graphs in the same plot.
-   <img snc = *images/Capture2.PNG*>
+   <img snc = *images/Capture2.PNG.PNG*>
 * It then covers scatter plots with various attributes like cmap, alpha etc.
    <img snc = *images/Capture3.PNG.PNG*>
    <img snc = *images/Capture4.PNG.PNG*>
